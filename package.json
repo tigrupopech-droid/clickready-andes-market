@@ -1,0 +1,8 @@
+{
+  "name": "clickready-andes-market",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo académico Click&Ready",
+  "scripts": {"test": "node --test tests/*.test.cjs"},
+  "engines": {"node": ">=20"}
+}
